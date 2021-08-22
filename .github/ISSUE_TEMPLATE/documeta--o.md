@@ -13,6 +13,6 @@ assignees: danielcstock
 [Documento]()
 
 ## :dart: Objetivos
-[ ] Criação do documento no Google Drive
-[ ] Conteúdo
-[ ] Validação com prof. Simone
+- [ ] Criação do documento no Google Drive
+- [ ] Conteúdo
+- [ ] Validação com prof. Simone
